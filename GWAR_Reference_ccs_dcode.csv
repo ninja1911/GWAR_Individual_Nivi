@@ -1,0 +1,1296 @@
+﻿CCSR Category,Rationale for Default Assignment
+DIG001,06 Infectious conditions
+INF003,06 Infectious conditions
+NVS001,06 Infectious conditions
+INF003,0 Not Applicable
+RSP002,06 Infectious conditions
+MUS001,06 Infectious conditions
+MUS002,06 Infectious conditions
+INF002,06 Infectious conditions
+GEN004,06 Infectious conditions
+INF005,0 Not Applicable
+INF009,06 Infectious conditions
+RSP016,06 Infectious conditions
+NVS014,06 Infectious conditions
+INF009,0 Not Applicable
+INF008,06 Infectious conditions
+INF001,0 Not Applicable
+INF001,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+RSP006,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+RSP011,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+RSP016,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+NVS001,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+NVS014,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+NVS002,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+NVS017,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+NVS020,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+MUS001,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+MUS025,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+GEN004,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+GEN006,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+GEN007,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+GEN013,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+GEN018,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+DIG016,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+INF001,06 Infectious conditions
+EYE012,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+EYE001,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+EYE005,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+EAR002,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+EAR006,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+END015,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+END001,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+DIG025,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+CIR004,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+BLD010,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+SKN001,06 Infectious conditions
+EYE012,06 Infectious conditions
+NVS002,06 Infectious conditions
+CIR004,06 Infectious conditions
+PNL009,06 Infectious conditions
+PRG023,06 Infectious conditions
+RSP006,06 Infectious conditions
+CIR005,06 Infectious conditions
+NVS015,06 Infectious conditions
+GEN001,06 Infectious conditions
+EYE001,06 Infectious conditions
+INF003,05 Condition AA with condition BB
+RSP002,05 Condition AA with condition BB
+EAR001,06 Infectious conditions
+END015,06 Infectious conditions
+CIR006,06 Infectious conditions
+EYE006,06 Infectious conditions
+MUS008,06 Infectious conditions
+INF005,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+PNL009,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+EYE012,"03 Pregnancy, perinatal, and congenital malformation"
+INF010,"03 Pregnancy, perinatal, and congenital malformation"
+PNL009,"03 Pregnancy, perinatal, and congenital malformation"
+MUS028,"03 Pregnancy, perinatal, and congenital malformation"
+RSP006,"03 Pregnancy, perinatal, and congenital malformation"
+RSP002,"03 Pregnancy, perinatal, and congenital malformation"
+RSP007,"03 Pregnancy, perinatal, and congenital malformation"
+EYE001,"03 Pregnancy, perinatal, and congenital malformation"
+EYE005,"03 Pregnancy, perinatal, and congenital malformation"
+NVS001,"03 Pregnancy, perinatal, and congenital malformation"
+NVS002,"03 Pregnancy, perinatal, and congenital malformation"
+NVS015,"03 Pregnancy, perinatal, and congenital malformation"
+EYE006,"03 Pregnancy, perinatal, and congenital malformation"
+INF010,0 Not Applicable
+DIG015,06 Infectious conditions
+INF010,06 Infectious conditions
+SKN007,06 Infectious conditions
+GEN018,06 Infectious conditions
+INF007,06 Infectious conditions
+MUS028,06 Infectious conditions
+CIR032,06 Infectious conditions
+CIR029,06 Infectious conditions
+CIR024,06 Infectious conditions
+NVS003,06 Infectious conditions
+DIG019,06 Infectious conditions
+GEN006,06 Infectious conditions
+GEN013,06 Infectious conditions
+MUS011,06 Infectious conditions
+DIG016,06 Infectious conditions
+DEN001,06 Infectious conditions
+DEN002,06 Infectious conditions
+DIG003,06 Infectious conditions
+DEN001,0 Not Applicable
+DEN002,0 Not Applicable
+INF008,0 Not Applicable
+INF008,05 Condition AA with condition BB
+NVS002,05 Condition AA with condition BB
+DEN003,06 Infectious conditions
+NVS017,06 Infectious conditions
+NVS013,06 Infectious conditions
+INF006,0 Not Applicable
+DIG020,06 Infectious conditions
+NVS015,05 Condition AA with condition BB
+NVS020,05 Condition AA with condition BB
+NVS001,05 Condition AA with condition BB
+INF004,0 Not Applicable
+INF004,06 Infectious conditions
+GEN025,06 Infectious conditions
+DIG004,06 Infectious conditions
+EAR006,06 Infectious conditions
+INF004,04 Allergic reactions
+INJ031,04 Allergic reactions
+BLD010,05 Condition AA with condition BB
+INF009,05 Condition AA with condition BB
+GEN001,05 Condition AA with condition BB
+DIG025,06 Infectious conditions
+EYE005,06 Infectious conditions
+MUS026,06 Infectious conditions
+EYE001,99 Unacceptable PDX
+INF009,99 Unacceptable PDX
+SKN002,06 Infectious conditions
+END001,06 Infectious conditions
+EYE012,05 Condition AA with condition BB
+INF011,0 Not Applicable
+INF011,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+NVS022,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+INF003,99 Unacceptable PDX and DX1
+INF008,99 Unacceptable PDX and DX1
+INF006,99 Unacceptable PDX and DX1
+NEO002,0 Not Applicable
+NEO004,0 Not Applicable
+NEO009,0 Not Applicable
+NEO003,0 Not Applicable
+NEO005,0 Not Applicable
+NEO006,0 Not Applicable
+NEO007,0 Not Applicable
+NEO010,0 Not Applicable
+NEO012,0 Not Applicable
+NEO013,0 Not Applicable
+NEO014,0 Not Applicable
+NEO015,0 Not Applicable
+NEO016,0 Not Applicable
+NEO017,0 Not Applicable
+NEO018,0 Not Applicable
+NEO019,0 Not Applicable
+NEO021,0 Not Applicable
+NEO051,0 Not Applicable
+NEO008,0 Not Applicable
+NEO022,0 Not Applicable
+NEO052,0 Not Applicable
+NEO011,0 Not Applicable
+NEO023,0 Not Applicable
+NEO025,0 Not Applicable
+NEO028,0 Not Applicable
+NEO026,0 Not Applicable
+NEO027,0 Not Applicable
+NEO067,0 Not Applicable
+NEO024,0 Not Applicable
+NEO049,0 Not Applicable
+NEO020,0 Not Applicable
+NEO020,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+NEO021,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+NEO030,0 Not Applicable
+NEO038,0 Not Applicable
+NEO036,0 Not Applicable
+NEO037,0 Not Applicable
+NEO032,0 Not Applicable
+NEO031,0 Not Applicable
+NEO035,0 Not Applicable
+NEO033,0 Not Applicable
+NEO034,0 Not Applicable
+NEO041,0 Not Applicable
+NEO039,0 Not Applicable
+NEO040,0 Not Applicable
+NEO042,0 Not Applicable
+NEO045,0 Not Applicable
+NEO044,0 Not Applicable
+NEO043,0 Not Applicable
+NEO046,0 Not Applicable
+NEO047,0 Not Applicable
+NEO001,0 Not Applicable
+NEO048,0 Not Applicable
+NEO050,0 Not Applicable
+NEO053,0 Not Applicable
+NEO056,0 Not Applicable
+NEO054,0 Not Applicable
+NEO055,0 Not Applicable
+NEO069,0 Not Applicable
+NEO070,0 Not Applicable
+NEO066,0 Not Applicable
+NEO071,0 Not Applicable
+NEO071,99 Unacceptable PDX
+NEO057,0 Not Applicable
+NEO058,0 Not Applicable
+NEO065,0 Not Applicable
+NEO059,0 Not Applicable
+NEO061,0 Not Applicable
+NEO064,0 Not Applicable
+NEO063,0 Not Applicable
+NEO060,0 Not Applicable
+NEO062,0 Not Applicable
+NEO029,0 Not Applicable
+NEO073,0 Not Applicable
+NEO072,0 Not Applicable
+NEO068,0 Not Applicable
+BLD006,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+NEO072,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+NEO072,99 Unacceptable PDX
+BLD001,0 Not Applicable
+BLD001,07 Signs/symptoms and factors influencing health status
+SYM005,07 Signs/symptoms and factors influencing health status
+BLD001,11 Condition XX due to underlying cause YY
+INJ030,11 Condition XX due to underlying cause YY
+BLD002,0 Not Applicable
+BLD005,0 Not Applicable
+BLD002,11 Condition XX due to underlying cause YY
+INF003,11 Condition XX due to underlying cause YY
+BLD003,0 Not Applicable
+BLD003,11 Condition XX due to underlying cause YY
+BLD003,01 Postprocedural or postoperative complications
+NEO074,01 Postprocedural or postoperative complications
+BLD004,0 Not Applicable
+BLD003,99 Unacceptable PDX and DX1
+NEO074,99 Unacceptable PDX and DX1
+GEN003,99 Unacceptable PDX and DX1
+BLD006,0 Not Applicable
+CIR037,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+BLD007,0 Not Applicable
+BLD007,01 Postprocedural or postoperative complications
+BLD007,11 Condition XX due to underlying cause YY
+BLD007,99 Unacceptable PDX and DX1
+BLD010,0 Not Applicable
+BLD010,99 Unacceptable PDX and DX1
+BLD009,0 Not Applicable
+BLD008,0 Not Applicable
+BLD008,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+END016,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+BLD008,99 Unacceptable PDX and DX1
+CIR005,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+BLD008,99 Unacceptable PDX
+INJ036,99 Unacceptable PDX
+END001,0 Not Applicable
+END001,11 Condition XX due to underlying cause YY
+NVS013,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+END003,99 Unacceptable PDX and DX1
+END006,99 Unacceptable PDX and DX1
+NVS013,99 Unacceptable PDX and DX1
+GEN001,99 Unacceptable PDX and DX1
+EYE005,99 Unacceptable PDX and DX1
+END003,02 Diabetes mellitus
+END006,02 Diabetes mellitus
+EYE005,02 Diabetes mellitus
+EYE002,99 Unacceptable PDX and DX1
+NVS020,99 Unacceptable PDX and DX1
+NVS017,99 Unacceptable PDX and DX1
+NVS015,99 Unacceptable PDX and DX1
+CIR032,99 Unacceptable PDX and DX1
+CIR028,99 Unacceptable PDX and DX1
+MUS007,99 Unacceptable PDX and DX1
+SKN002,99 Unacceptable PDX and DX1
+SKN003,99 Unacceptable PDX and DX1
+END002,99 Unacceptable PDX and DX1
+NVS013,02 Diabetes mellitus
+GEN001,02 Diabetes mellitus
+GEN003,02 Diabetes mellitus
+EYE002,02 Diabetes mellitus
+NVS020,02 Diabetes mellitus
+NVS017,02 Diabetes mellitus
+NVS015,02 Diabetes mellitus
+CIR032,02 Diabetes mellitus
+CIR028,02 Diabetes mellitus
+MUS007,02 Diabetes mellitus
+SKN002,02 Diabetes mellitus
+SKN003,02 Diabetes mellitus
+END002,02 Diabetes mellitus
+END004,02 Diabetes mellitus
+END005,02 Diabetes mellitus
+END003,0 Not Applicable
+END015,11 Condition XX due to underlying cause YY
+END015,0 Not Applicable
+END015,99 Unacceptable PDX and DX1
+END013,0 Not Applicable
+END013,11 Condition XX due to underlying cause YY
+END015,12 Exception to match the CCSR body system to the ICD-10-CM codebook chapter
+GEN023,12 Exception to match the CCSR body system to the ICD-10-CM codebook chapter
+GEN024,12 Exception to match the CCSR body system to the ICD-10-CM codebook chapter
+GEN023,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+GEN024,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+NEO050,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+END014,0 Not Applicable
+END008,0 Not Applicable
+END007,0 Not Applicable
+END017,0 Not Applicable
+END016,0 Not Applicable
+END009,0 Not Applicable
+END009,11 Condition XX due to underlying cause YY
+NVS006,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+END010,0 Not Applicable
+END012,0 Not Applicable
+END011,0 Not Applicable
+END016,01 Postprocedural or postoperative complications
+END016,99 Unacceptable PDX
+SYM016,99 Unacceptable PDX
+END001,01 Postprocedural or postoperative complications
+END014,01 Postprocedural or postoperative complications
+END002,01 Postprocedural or postoperative complications
+NVS011,0 Not Applicable
+NVS011,99 Unacceptable PDX
+NVS011,99 Unacceptable PDX and DX1
+MBD001,0 Not Applicable
+MBD004,0 Not Applicable
+MBD002,0 Not Applicable
+MBD003,0 Not Applicable
+MBD002,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+MBD003,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+MBD005,0 Not Applicable
+MBD013,0 Not Applicable
+MBD009,0 Not Applicable
+MBD017,0 Not Applicable
+MBD026,0 Not Applicable
+MBD001,10 Substance use disorders
+MBD017,10 Substance use disorders
+MBD005,10 Substance use disorders
+MBD018,0 Not Applicable
+MBD018,10 Substance use disorders
+MBD019,0 Not Applicable
+MBD019,10 Substance use disorders
+MBD020,0 Not Applicable
+MBD020,10 Substance use disorders
+MBD021,0 Not Applicable
+MBD021,10 Substance use disorders
+MBD022,0 Not Applicable
+MBD022,10 Substance use disorders
+MBD024,99 Unacceptable PDX
+MBD026,99 Unacceptable PDX
+MBD024,0 Not Applicable
+MBD023,0 Not Applicable
+MBD023,10 Substance use disorders
+MBD025,0 Not Applicable
+MBD025,10 Substance use disorders
+MBD025,05 Condition AA with condition BB
+NVS011,05 Condition AA with condition BB
+NVS016,05 Condition AA with condition BB
+MBD025,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+NVS011,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+NVS016,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+MBD001,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+MBD009,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+MBD006,0 Not Applicable
+MBD007,0 Not Applicable
+MBD011,0 Not Applicable
+MBD010,0 Not Applicable
+NVS016,0 Not Applicable
+MBD013,99 Unacceptable PDX
+PRG027,0 Not Applicable
+MBD013,99 Unacceptable PDX and DX1
+MBD008,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+MBD008,0 Not Applicable
+MBD014,0 Not Applicable
+EAR004,11 Condition XX due to underlying cause YY
+MBD014,11 Condition XX due to underlying cause YY
+MBD014,99 Unacceptable PDX
+GEN008,0 Not Applicable
+INF003,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+NVS001,99 Unacceptable PDX and DX1
+INF009,99 Unacceptable PDX and DX1
+NVS001,0 Not Applicable
+NVS002,0 Not Applicable
+FAC016,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+NVS008,0 Not Applicable
+NVS002,99 Unacceptable PDX and DX1
+NVS014,0 Not Applicable
+NVS014,99 Unacceptable PDX and DX1
+NVS020,0 Not Applicable
+NVS022,0 Not Applicable
+NVS006,0 Not Applicable
+END013,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+DEN001,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+DEN002,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+DIG002,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+NVS006,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+NVS011,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+NVS003,0 Not Applicable
+NVS004,0 Not Applicable
+INJ030,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+NVS006,11 Condition XX due to underlying cause YY
+NVS016,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+NVS006,99 Unacceptable PDX and DX1
+MBD017,11 Condition XX due to underlying cause YY
+NVS005,0 Not Applicable
+NVS009,0 Not Applicable
+NVS010,0 Not Applicable
+CIR020,05 Exception to condition AA with condition BB
+NVS010,05 Exception to condition AA with condition BB
+NVS010,07 Signs/symptoms and factors influencing health status
+SYM004,07 Signs/symptoms and factors influencing health status
+SYM006,07 Signs/symptoms and factors influencing health status
+NVS010,11 Condition XX due to underlying cause YY
+NVS012,0 Not Applicable
+CIR024,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+NVS016,99 Unacceptable PDX and DX1
+NVS017,0 Not Applicable
+NVS017,99 Unacceptable PDX
+NVS015,0 Not Applicable
+NVS015,11 Condition XX due to underlying cause YY
+MBD017,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+NVS015,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+NVS018,0 Not Applicable
+NVS018,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+NVS018,99 Unacceptable PDX and DX1
+NVS018,11 Condition XX due to underlying cause YY
+NVS007,0 Not Applicable
+NVS019,0 Not Applicable
+NVS019,01 Postprocedural or postoperative complications
+NVS006,07 Signs/symptoms and factors influencing health status
+SYM001,07 Signs/symptoms and factors influencing health status
+NVS013,0 Not Applicable
+NVS020,07 Signs/symptoms and factors influencing health status
+SYM007,07 Signs/symptoms and factors influencing health status
+NVS021,0 Not Applicable
+MUS032,12 Exception to match the CCSR body system to the ICD-10-CM codebook chapter
+NVS020,12 Exception to match the CCSR body system to the ICD-10-CM codebook chapter
+EYE001,0 Not Applicable
+EYE001,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+EYE008,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+INJ031,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+MUS024,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+EYE008,0 Not Applicable
+EYE008,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+SKN001,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+MUS002,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+EYE001,04 Allergic reactions
+EYE004,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+EYE005,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+EYE004,0 Not Applicable
+EYE012,0 Not Applicable
+EYE003,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+EYE012,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+EYE012,99 Unacceptable PDX and DX1
+EYE002,0 Not Applicable
+EYE002,11 Condition XX due to underlying cause YY
+EYE005,0 Not Applicable
+CIR008,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+EYE005,99 Unacceptable PDX
+BLD005,99 Unacceptable PDX
+EYE003,0 Not Applicable
+EYE003,99 Unacceptable PDX
+EYE003,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+EYE003,99 Unacceptable PDX and DX1
+EYE006,0 Not Applicable
+EYE006,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+EYE006,01 Postprocedural or postoperative complications
+EYE006,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+EYE007,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+EYE007,0 Not Applicable
+EYE009,0 Not Applicable
+EYE010,0 Not Applicable
+EYE010,99 Unacceptable PDX
+SYM015,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+EYE012,99 Unacceptable PDX
+EYE011,0 Not Applicable
+EAR006,0 Not Applicable
+EAR006,99 Unacceptable PDX and DX1
+EAR001,0 Not Applicable
+EAR001,04 Allergic reactions
+EAR001,99 Unacceptable PDX and DX1
+EAR002,0 Not Applicable
+EAR002,99 Unacceptable PDX and DX1
+EAR003,0 Not Applicable
+EAR003,99 Unacceptable PDX and DX1
+EAR004,0 Not Applicable
+EAR004,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+EAR006,99 Unacceptable PDX
+EAR002,01 Postprocedural or postoperative complications
+EAR005,01 Postprocedural or postoperative complications
+EAR005,0 Not Applicable
+CIR002,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+CIR002,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+CIR006,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+CIR004,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+CIR005,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+CIR001,0 Not Applicable
+CIR001,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+CIR019,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+CIR007,0 Not Applicable
+CIR008,05 Exception to condition AA with condition BB
+CIR019,05 Exception to condition AA with condition BB
+CIR008,0 Not Applicable
+GEN003,05 Exception to condition AA with condition BB
+CIR011,0 Not Applicable
+CIR009,0 Not Applicable
+CIR010,0 Not Applicable
+CIR015,0 Not Applicable
+CIR027,0 Not Applicable
+CIR011,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+CIR011,99 Unacceptable PDX
+CIR013,99 Unacceptable PDX
+CIR013,0 Not Applicable
+CIR014,0 Not Applicable
+CIR006,0 Not Applicable
+CIR006,99 Unacceptable PDX and DX1
+CIR006,99 Unacceptable PDX
+CIR004,0 Not Applicable
+CIR003,0 Not Applicable
+CIR004,99 Unacceptable PDX and DX1
+CIR005,0 Not Applicable
+CIR005,99 Unacceptable PDX and DX1
+CIR005,11 Condition XX due to underlying cause YY
+CIR016,0 Not Applicable
+CIR018,99 Unacceptable PDX
+CIR018,0 Not Applicable
+CIR017,0 Not Applicable
+CIR019,0 Not Applicable
+CIR015,99 Unacceptable PDX and DX1
+CIR021,0 Not Applicable
+CIR020,0 Not Applicable
+CIR023,0 Not Applicable
+CIR024,0 Not Applicable
+CIR024,99 Unacceptable PDX and DX1
+CIR022,0 Not Applicable
+CIR025,0 Not Applicable
+CIR026,0 Not Applicable
+CIR026,05 Condition AA with condition BB
+CIR028,05 Condition AA with condition BB
+CIR026,99 Unacceptable PDX
+CIR029,0 Not Applicable
+CIR030,0 Not Applicable
+CIR030,99 Unacceptable PDX
+INF002,99 Unacceptable PDX
+CIR032,0 Not Applicable
+CIR032,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+CIR029,99 Unacceptable PDX and DX1
+CIR033,0 Not Applicable
+CIR034,0 Not Applicable
+CIR035,0 Not Applicable
+CIR039,0 Not Applicable
+CIR039,05 Condition AA with condition BB
+DIG021,05 Condition AA with condition BB
+CIR036,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+CIR039,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+CIR036,0 Not Applicable
+CIR031,0 Not Applicable
+CIR031,11 Condition XX due to underlying cause YY
+CIR028,0 Not Applicable
+CIR038,0 Not Applicable
+CIR018,01 Postprocedural or postoperative complications
+CIR038,01 Postprocedural or postoperative complications
+CIR019,01 Postprocedural or postoperative complications
+CIR008,01 Postprocedural or postoperative complications
+CIR020,01 Postprocedural or postoperative complications
+RSP006,0 Not Applicable
+RSP001,0 Not Applicable
+RSP004,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+RSP004,0 Not Applicable
+RSP003,05 Condition AA with condition BB
+RSP003,0 Not Applicable
+CIR005,05 Condition AA with condition BB
+EAR001,05 Condition AA with condition BB
+INF008,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+RSP002,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+INF012,99 Unacceptable PDX
+RSP002,99 Unacceptable PDX
+RSP002,0 Not Applicable
+RSP002,99 Unacceptable PDX and DX1
+RSP016,0 Not Applicable
+RSP005,06 Infectious conditions
+RSP005,0 Not Applicable
+RSP007,0 Not Applicable
+RSP007,04 Allergic reactions
+RSP008,0 Not Applicable
+RSP009,0 Not Applicable
+RSP016,11 Condition XX due to underlying cause YY
+INJ036,11 Condition XX due to underlying cause YY
+RSP008,11 Condition XX due to underlying cause YY
+RSP013,0 Not Applicable
+INF001,05 Condition AA with condition BB
+RSP013,05 Condition AA with condition BB
+RSP010,0 Not Applicable
+RSP010,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+RSP013,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+RSP013,11 Condition XX due to underlying cause YY
+RSP012,0 Not Applicable
+RSP016,99 Unacceptable PDX and DX1
+RSP015,0 Not Applicable
+RSP011,0 Not Applicable
+RSP011,99 Unacceptable PDX and DX1
+RSP014,0 Not Applicable
+RSP014,99 Unacceptable PDX
+RSP017,0 Not Applicable
+RSP010,01 Postprocedural or postoperative complications
+RSP017,01 Postprocedural or postoperative complications
+RSP014,01 Postprocedural or postoperative complications
+RSP012,01 Postprocedural or postoperative complications
+RSP002,01 Postprocedural or postoperative complications
+DIG002,0 Not Applicable
+DEN003,0 Not Applicable
+MUS029,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+DEN001,04 Allergic reactions
+DEN002,04 Allergic reactions
+DEN003,04 Allergic reactions
+DIG002,04 Allergic reactions
+DIG003,0 Not Applicable
+DEN001,01 Postprocedural or postoperative complications
+DEN002,01 Postprocedural or postoperative complications
+DIG003,01 Postprocedural or postoperative complications
+DEN001,11 Condition XX due to underlying cause YY
+DEN002,11 Condition XX due to underlying cause YY
+DIG003,11 Condition XX due to underlying cause YY
+DIG004,0 Not Applicable
+DIG021,0 Not Applicable
+DIG004,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+DIG006,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+DIG021,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+DIG004,99 Unacceptable PDX and DX1
+DIG005,05 Condition AA with condition BB
+DIG006,05 Condition AA with condition BB
+DIG005,0 Not Applicable
+DIG007,0 Not Applicable
+DIG007,05 Condition AA with condition BB
+DIG007,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+MBD017,05 Condition AA with condition BB
+DIG008,0 Not Applicable
+DIG012,0 Not Applicable
+DIG008,12 Exception to match the CCSR body system to the ICD-10-CM codebook chapter
+NEO073,12 Exception to match the CCSR body system to the ICD-10-CM codebook chapter
+DIG008,05 Condition AA with condition BB
+DIG008,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+DIG009,05 Condition AA with condition BB
+DIG016,05 Condition AA with condition BB
+DIG009,0 Not Applicable
+DIG010,05 Condition AA with condition BB
+DIG012,05 Condition AA with condition BB
+DIG010,0 Not Applicable
+DIG011,0 Not Applicable
+DIG011,05 Condition AA with condition BB
+DIG022,0 Not Applicable
+DIG022,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+DIG022,04 Allergic reactions
+CIR026,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+DIG025,05 Condition AA with condition BB
+DIG025,0 Not Applicable
+DIG012,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+DIG017,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+DIG013,05 Condition AA with condition BB
+DIG013,0 Not Applicable
+DIG025,11 Condition XX due to underlying cause YY
+DIG015,0 Not Applicable
+DIG015,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+DIG016,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+DIG016,0 Not Applicable
+DIG006,0 Not Applicable
+DIG014,0 Not Applicable
+DIG016,99 Unacceptable PDX and DX1
+MUS026,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+DIG019,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+MBD017,06 Infectious conditions
+DIG018,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+DIG023,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+DIG018,0 Not Applicable
+DIG023,0 Not Applicable
+DIG019,0 Not Applicable
+DIG019,99 Unacceptable PDX
+GEN002,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+DIG019,99 Unacceptable PDX and DX1
+DIG017,0 Not Applicable
+DIG017,99 Unacceptable PDX and DX1
+DIG006,99 Unacceptable PDX and DX1
+DIG020,0 Not Applicable
+DIG020,11 Condition XX due to underlying cause YY
+DIG025,04 Allergic reactions
+DIG024,01 Postprocedural or postoperative complications
+SYM004,01 Postprocedural or postoperative complications
+DIG024,0 Not Applicable
+DIG012,01 Postprocedural or postoperative complications
+DIG017,01 Postprocedural or postoperative complications
+DIG018,01 Postprocedural or postoperative complications
+DIG019,01 Postprocedural or postoperative complications
+GEN002,01 Postprocedural or postoperative complications
+SKN001,0 Not Applicable
+SKN002,0 Not Applicable
+SKN002,11 Condition XX due to underlying cause YY
+SKN002,04 Allergic reactions
+SKN005,0 Not Applicable
+SKN005,04 Allergic reactions
+SKN005,11 Condition XX due to underlying cause YY
+SKN007,04 Allergic reactions
+SKN007,0 Not Applicable
+MUS005,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+SKN002,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+MUS028,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+MUS011,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+SKN002,99 Unacceptable PDX
+SKN007,99 Unacceptable PDX and DX1
+SKN007,11 Condition XX due to underlying cause YY
+SKN006,0 Not Applicable
+SKN003,0 Not Applicable
+MUS024,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+SKN004,0 Not Applicable
+MUS030,05 Condition AA with condition BB
+SKN004,05 Condition AA with condition BB
+MUS001,99 Unacceptable PDX and DX1
+MUS007,0 Not Applicable
+MUS008,0 Not Applicable
+MUS008,99 Unacceptable PDX and DX1
+MUS036,0 Not Applicable
+MUS003,0 Not Applicable
+MUS003,05 Exception to condition AA with condition BB
+RSP016,05 Exception to condition AA with condition BB
+CIR037,05 Exception to condition AA with condition BB
+CIR015,05 Exception to condition AA with condition BB
+NVS018,05 Exception to condition AA with condition BB
+NVS015,05 Exception to condition AA with condition BB
+MUS004,0 Not Applicable
+MUS004,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+MUS011,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+MUS033,0 Not Applicable
+MUS033,11 Condition XX due to underlying cause YY
+MUS034,0 Not Applicable
+MUS005,0 Not Applicable
+MUS009,0 Not Applicable
+MUS031,0 Not Applicable
+MUS032,0 Not Applicable
+MUS006,0 Not Applicable
+MUS023,0 Not Applicable
+MUS021,0 Not Applicable
+MUS010,0 Not Applicable
+MUS029,0 Not Applicable
+DEN003,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+CIR037,11 Condition XX due to underlying cause YY
+MUS024,11 Condition XX due to underlying cause YY
+MUS024,0 Not Applicable
+CIR006,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+MUS024,05 Condition AA with condition BB
+EYE001,05 Condition AA with condition BB
+NVS018,05 Condition AA with condition BB
+MUS007,05 Condition AA with condition BB
+CIR037,05 Condition AA with condition BB
+DEN001,05 Condition AA with condition BB
+DEN002,05 Condition AA with condition BB
+DEN003,05 Condition AA with condition BB
+DIG002,05 Condition AA with condition BB
+MUS024,99 Unacceptable PDX and DX1
+BLD006,99 Unacceptable PDX and DX1
+INJ031,99 Unacceptable PDX and DX1
+MUS022,0 Not Applicable
+MUS011,0 Not Applicable
+MUS003,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+MUS002,0 Not Applicable
+MUS016,0 Not Applicable
+MUS017,0 Not Applicable
+MUS020,0 Not Applicable
+MUS011,99 Unacceptable PDX and DX1
+MUS011,11 Condition XX due to underlying cause YY
+MUS038,11 Condition XX due to underlying cause YY
+MUS025,0 Not Applicable
+MUS038,0 Not Applicable
+MUS026,0 Not Applicable
+MUS026,99 Unacceptable PDX and DX1
+MUS009,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+MUS027,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+MUS025,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+MUS013,05 Condition AA with condition BB
+MUS014,05 Condition AA with condition BB
+MUS015,0 Not Applicable
+MUS013,0 Not Applicable
+MUS028,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+MUS035,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+PRG027,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+MUS035,11 Condition XX due to underlying cause YY
+MUS014,0 Not Applicable
+MUS014,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+NEO074,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+MUS018,0 Not Applicable
+MUS019,0 Not Applicable
+MUS028,0 Not Applicable
+MUS030,0 Not Applicable
+MUS030,11 Condition XX due to underlying cause YY
+MUS030,99 Unacceptable PDX and DX1
+MUS028,99 Unacceptable PDX and DX1
+MUS028,01 Postprocedural or postoperative complications
+MUS037,01 Postprocedural or postoperative complications
+MUS011,01 Postprocedural or postoperative complications
+MUS022,01 Postprocedural or postoperative complications
+MUS037,0 Not Applicable
+INJ003,0 Not Applicable
+INJ006,0 Not Applicable
+INJ043,0 Not Applicable
+INJ073,0 Not Applicable
+INJ005,0 Not Applicable
+INJ042,0 Not Applicable
+INJ004,0 Not Applicable
+INJ041,0 Not Applicable
+MUS012,0 Not Applicable
+GEN001,0 Not Applicable
+GEN009,05 Condition AA with condition BB
+GEN010,05 Condition AA with condition BB
+GEN004,0 Not Applicable
+GEN006,0 Not Applicable
+GEN005,05 Condition AA with condition BB
+GEN006,05 Condition AA with condition BB
+GEN011,0 Not Applicable
+GEN001,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+GEN001,11 Condition XX due to underlying cause YY
+GEN002,0 Not Applicable
+GEN003,0 Not Applicable
+GEN005,0 Not Applicable
+GEN005,99 Unacceptable PDX and DX1
+GEN006,99 Unacceptable PDX and DX1
+GEN004,05 Condition AA with condition BB
+GEN007,0 Not Applicable
+GEN007,99 Unacceptable PDX and DX1
+SYM011,0 Not Applicable
+GEN012,0 Not Applicable
+GEN013,0 Not Applicable
+GEN016,0 Not Applicable
+GEN013,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+GEN016,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+GEN015,0 Not Applicable
+GEN015,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+GEN016,99 Unacceptable PDX and DX1
+GEN016,11 Condition XX due to underlying cause YY
+CIR028,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+GEN014,0 Not Applicable
+GEN014,99 Unacceptable PDX and DX1
+GEN014,11 Condition XX due to underlying cause YY
+GEN014,01 Postprocedural or postoperative complications
+GEN017,0 Not Applicable
+GEN017,99 Unacceptable PDX
+GEN018,0 Not Applicable
+GEN018,99 Unacceptable PDX and DX1
+GEN019,0 Not Applicable
+GEN019,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+GEN022,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+GEN020,0 Not Applicable
+GEN025,0 Not Applicable
+GEN022,0 Not Applicable
+GEN021,0 Not Applicable
+GEN023,0 Not Applicable
+GEN023,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+GEN025,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+GEN024,0 Not Applicable
+GEN026,0 Not Applicable
+GEN026,01 Postprocedural or postoperative complications
+GEN007,01 Postprocedural or postoperative complications
+GEN025,01 Postprocedural or postoperative complications
+PRG005,0 Not Applicable
+PRG006,0 Not Applicable
+PRG003,0 Not Applicable
+PRG003,"03 Pregnancy, perinatal, and congenital malformation"
+SYM003,"03 Pregnancy, perinatal, and congenital malformation"
+CIR018,"03 Pregnancy, perinatal, and congenital malformation"
+INF002,"03 Pregnancy, perinatal, and congenital malformation"
+PRG004,0 Not Applicable
+PRG004,"03 Pregnancy, perinatal, and congenital malformation"
+PRG007,0 Not Applicable
+PRG007,"03 Pregnancy, perinatal, and congenital malformation"
+PRG008,99 Unacceptable PDX
+PRG015,99 Unacceptable PDX
+CIR007,"03 Pregnancy, perinatal, and congenital malformation"
+PRG020,"03 Pregnancy, perinatal, and congenital malformation"
+CIR007,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+PRG020,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+PRG023,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+CIR008,"03 Pregnancy, perinatal, and congenital malformation"
+CIR008,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+PRG028,0 Not Applicable
+PRG023,0 Not Applicable
+GEN010,"03 Pregnancy, perinatal, and congenital malformation"
+PRG028,"03 Pregnancy, perinatal, and congenital malformation"
+PRG023,"03 Pregnancy, perinatal, and congenital malformation"
+PRG027,"03 Pregnancy, perinatal, and congenital malformation"
+PRG020,0 Not Applicable
+PRG009,0 Not Applicable
+SYM004,"03 Pregnancy, perinatal, and congenital malformation"
+CIR035,"03 Pregnancy, perinatal, and congenital malformation"
+CIR039,"03 Pregnancy, perinatal, and congenital malformation"
+CIR033,"03 Pregnancy, perinatal, and congenital malformation"
+DIG014,"03 Pregnancy, perinatal, and congenital malformation"
+GEN004,"03 Pregnancy, perinatal, and congenital malformation"
+GEN018,"03 Pregnancy, perinatal, and congenital malformation"
+END002,"03 Pregnancy, perinatal, and congenital malformation"
+END004,"03 Pregnancy, perinatal, and congenital malformation"
+PRG019,"03 Pregnancy, perinatal, and congenital malformation"
+END002,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+END004,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+PRG019,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+END005,"03 Pregnancy, perinatal, and congenital malformation"
+END005,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+END008,"03 Pregnancy, perinatal, and congenital malformation"
+PRG015,0 Not Applicable
+INF008,"03 Pregnancy, perinatal, and congenital malformation"
+CIR031,"03 Pregnancy, perinatal, and congenital malformation"
+DIG019,"03 Pregnancy, perinatal, and congenital malformation"
+GEN006,"03 Pregnancy, perinatal, and congenital malformation"
+PRG010,0 Not Applicable
+PRG011,0 Not Applicable
+PRG025,"03 Pregnancy, perinatal, and congenital malformation"
+RSP010,"03 Pregnancy, perinatal, and congenital malformation"
+PRG025,0 Not Applicable
+CIR019,"03 Pregnancy, perinatal, and congenital malformation"
+PRG012,0 Not Applicable
+PRG024,0 Not Applicable
+PRG017,0 Not Applicable
+PRG016,0 Not Applicable
+PRG013,0 Not Applicable
+MBD017,"03 Pregnancy, perinatal, and congenital malformation"
+PRG013,"03 Pregnancy, perinatal, and congenital malformation"
+MBD025,"03 Pregnancy, perinatal, and congenital malformation"
+PRG005,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+PRG018,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+PRG013,99 Unacceptable PDX
+PRG014,0 Not Applicable
+PRG021,0 Not Applicable
+PRG029,0 Not Applicable
+PRG018,0 Not Applicable
+PRG009,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+PRG010,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+PRG022,0 Not Applicable
+PRG011,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+PRG029,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+PRG026,0 Not Applicable
+PRG025,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+INJ030,"03 Pregnancy, perinatal, and congenital malformation"
+PRG024,"03 Pregnancy, perinatal, and congenital malformation"
+CIR005,"03 Pregnancy, perinatal, and congenital malformation"
+GEN002,"03 Pregnancy, perinatal, and congenital malformation"
+END001,"03 Pregnancy, perinatal, and congenital malformation"
+MBD002,"03 Pregnancy, perinatal, and congenital malformation"
+GEN017,"03 Pregnancy, perinatal, and congenital malformation"
+PRG028,99 Unacceptable PDX
+INF001,"03 Pregnancy, perinatal, and congenital malformation"
+INF007,"03 Pregnancy, perinatal, and congenital malformation"
+INF009,"03 Pregnancy, perinatal, and congenital malformation"
+INF006,"03 Pregnancy, perinatal, and congenital malformation"
+END009,"03 Pregnancy, perinatal, and congenital malformation"
+MBD024,"03 Pregnancy, perinatal, and congenital malformation"
+MBD013,"03 Pregnancy, perinatal, and congenital malformation"
+FAC024,99 Unacceptable PDX
+FAC024,"03 Pregnancy, perinatal, and congenital malformation"
+PRG027,99 Unacceptable PDX
+INJ027,"03 Pregnancy, perinatal, and congenital malformation"
+INJ032,"03 Pregnancy, perinatal, and congenital malformation"
+PNL010,0 Not Applicable
+PNL010,06 Infectious Conditions
+PNL010,10 Substance use disorders
+PNL014,10 Substance use disorders
+PNL010,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+PNL015,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+PNL002,0 Not Applicable
+PNL013,0 Not Applicable
+END016,05 Condition AA with condition BB
+PNL013,05 Condition AA with condition BB
+MAL010,05 Condition AA with condition BB
+END012,05 Condition AA with condition BB
+MAL001,05 Condition AA with condition BB
+EAR004,05 Condition AA with condition BB
+PNL008,0 Not Applicable
+PNL003,0 Not Applicable
+PNL005,0 Not Applicable
+INF008,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+PNL006,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+PNL009,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+INF003,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+INF009,12 More than one CCSR category matches the ICD-10-CM codebook chapter
+PNL006,0 Not Applicable
+INF003,"03 Pregnancy, perinatal, and congenital malformation"
+INF004,"03 Pregnancy, perinatal, and congenital malformation"
+PNL009,0 Not Applicable
+PNL011,0 Not Applicable
+PNL007,0 Not Applicable
+PNL007,"03 Pregnancy, perinatal, and congenital malformation"
+PNL012,0 Not Applicable
+PNL004,0 Not Applicable
+PNL004,99 Unacceptable PDX and DX1
+PNL013,"03 Pregnancy, perinatal, and congenital malformation"
+PNL014,0 Not Applicable
+MAL004,0 Not Applicable
+MAL005,0 Not Applicable
+MAL001,0 Not Applicable
+MAL007,0 Not Applicable
+MAL006,0 Not Applicable
+MAL002,0 Not Applicable
+MAL003,0 Not Applicable
+MAL008,0 Not Applicable
+MAL010,0 Not Applicable
+MAL010,12 Exception to match the CCSR body system to the ICD-10-CM codebook chapter
+PNL015,12 Exception to match the CCSR body system to the ICD-10-CM codebook chapter
+MAL009,0 Not Applicable
+SYM012,0 Not Applicable
+SYM013,0 Not Applicable
+NVS016,07 Signs/symptoms and factors influencing health status
+SYM013,07 Signs/symptoms and factors influencing health status
+CIR012,0 Not Applicable
+SYM015,0 Not Applicable
+SYM006,0 Not Applicable
+SYM004,0 Not Applicable
+SYM005,0 Not Applicable
+NEO074,99 Unacceptable PDX
+SYM006,99 Unacceptable PDX
+SYM014,0 Not Applicable
+SYM010,0 Not Applicable
+SYM016,0 Not Applicable
+CIR020,99 Unacceptable PDX and DX1
+GEN009,0 Not Applicable
+INJ030,07 Signs/symptoms and factors influencing health status
+SYM011,07 Signs/symptoms and factors influencing health status
+SYM010,99 Unacceptable PDX and DX1
+NVS013,99 Unacceptable PDX
+SYM010,99 Unacceptable PDX
+SYM008,0 Not Applicable
+SYM008,99 Unacceptable PDX
+MBD012,0 Not Applicable
+EXT019,08 Suicidal ideation/attempt/intentional self-harm
+EXT021,08 Suicidal ideation/attempt/intentional self-harm
+INJ027,08 Suicidal ideation/attempt/intentional self-harm
+MBD012,08 Suicidal ideation/attempt/intentional self-harm
+SYM002,07 Signs/symptoms and factors influencing health status
+SYM002,99 Unacceptable PDX and DX1
+SYM002,0 Not Applicable
+SYM010,07 Signs/symptoms and factors influencing health status
+NEO074,07 Signs/symptoms and factors influencing health status
+SYM007,0 Not Applicable
+SYM001,0 Not Applicable
+SYM003,0 Not Applicable
+SYM003,99 Unacceptable PDX
+DEN001,07 Signs/symptoms and factors influencing health status
+DEN002,07 Signs/symptoms and factors influencing health status
+DIG003,07 Signs/symptoms and factors influencing health status
+SYM016,07 Signs/symptoms and factors influencing health status
+SYM017,0 Not Applicable
+SYM009,0 Not Applicable
+GEN010,0 Not Applicable
+GEN003,07 Signs/symptoms and factors influencing health status
+SYM017,07 Signs/symptoms and factors influencing health status
+INJ017,0 Not Applicable
+INJ054,0 Not Applicable
+INJ011,0 Not Applicable
+INJ048,0 Not Applicable
+INJ001,0 Not Applicable
+INJ038,0 Not Applicable
+INJ007,0 Not Applicable
+INJ044,0 Not Applicable
+INJ007,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+INJ044,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+INJ073,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+INJ024,0 Not Applicable
+INJ061,0 Not Applicable
+INJ025,0 Not Applicable
+INJ062,0 Not Applicable
+INJ026,0 Not Applicable
+INJ063,0 Not Applicable
+INJ027,0 Not Applicable
+INJ064,0 Not Applicable
+INJ008,0 Not Applicable
+INJ045,0 Not Applicable
+INJ018,0 Not Applicable
+INJ055,0 Not Applicable
+INJ015,0 Not Applicable
+INJ052,0 Not Applicable
+INJ016,0 Not Applicable
+INJ053,0 Not Applicable
+INJ002,0 Not Applicable
+INJ039,0 Not Applicable
+INJ009,0 Not Applicable
+INJ046,0 Not Applicable
+INJ013,0 Not Applicable
+INJ050,0 Not Applicable
+INJ040,0 Not Applicable
+INJ010,0 Not Applicable
+INJ047,0 Not Applicable
+INJ012,0 Not Applicable
+INJ049,0 Not Applicable
+INJ014,0 Not Applicable
+INJ051,0 Not Applicable
+INJ064,08 Suicidal ideation/attempt/intentional self-harm
+MBD027,08 Suicidal ideation/attempt/intentional self-harm
+INJ073,08 Suicidal ideation/attempt/intentional self-harm
+MBD034,08 Suicidal ideation/attempt/intentional self-harm
+EXT018,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+EXT020,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+INJ020,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+INJ057,0 Not Applicable
+EXT017,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+INJ019,0 Not Applicable
+INJ056,0 Not Applicable
+INJ021,0 Not Applicable
+INJ058,0 Not Applicable
+INJ074,0 Not Applicable
+EXT014,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+INJ022,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+INJ059,0 Not Applicable
+INJ075,0 Not Applicable
+EXT014,08 Suicidal ideation/attempt/intentional self-harm
+INJ022,08 Suicidal ideation/attempt/intentional self-harm
+INJ059,08 Suicidal ideation/attempt/intentional self-harm
+INJ075,08 Suicidal ideation/attempt/intentional self-harm
+EXT022,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+EXT023,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+INJ028,99 Unacceptable PDX
+INJ065,99 Unacceptable PDX
+INJ075,99 Unacceptable PDX
+INJ029,99 Unacceptable PDX and DX1
+INJ066,99 Unacceptable PDX and DX1
+INJ075,99 Unacceptable PDX and DX1
+EXT014,09 Poisoning by drugs or adverse effects of medical drugs
+EXT020,09 Poisoning by drugs or adverse effects of medical drugs
+INJ022,09 Poisoning by drugs or adverse effects of medical drugs
+MBD018,09 Poisoning by drugs or adverse effects of medical drugs
+INJ059,09 Poisoning by drugs or adverse effects of medical drugs
+MBD028,09 Poisoning by drugs or adverse effects of medical drugs
+INJ075,10 Substance use disorders
+MBD034,10 Substance use disorders
+MBD018,08 Suicidal ideation/attempt/intentional self-harm
+MBD028,08 Suicidal ideation/attempt/intentional self-harm
+EXT022,09 Poisoning by drugs or adverse effects of medical drugs
+EXT023,09 Poisoning by drugs or adverse effects of medical drugs
+MBD018,99 Unacceptable PDX
+MBD028,99 Unacceptable PDX
+MBD034,99 Unacceptable PDX
+INJ028,0 Not Applicable
+INJ065,0 Not Applicable
+MBD021,09 Poisoning by drugs or adverse effects of medical drugs
+MBD029,09 Poisoning by drugs or adverse effects of medical drugs
+MBD021,08 Suicidal ideation/attempt/intentional self-harm
+MBD029,08 Suicidal ideation/attempt/intentional self-harm
+MBD021,99 Unacceptable PDX
+MBD029,99 Unacceptable PDX
+MBD019,09 Poisoning by drugs or adverse effects of medical drugs
+MBD030,09 Poisoning by drugs or adverse effects of medical drugs
+MBD019,08 Suicidal ideation/attempt/intentional self-harm
+MBD030,08 Suicidal ideation/attempt/intentional self-harm
+MBD019,99 Unacceptable PDX
+MBD030,99 Unacceptable PDX
+MBD022,09 Poisoning by drugs or adverse effects of medical drugs
+MBD031,09 Poisoning by drugs or adverse effects of medical drugs
+MBD022,08 Suicidal ideation/attempt/intentional self-harm
+MBD031,08 Suicidal ideation/attempt/intentional self-harm
+MBD022,99 Unacceptable PDX
+MBD031,99 Unacceptable PDX
+MBD023,09 Poisoning by drugs or adverse effects of medical drugs
+MBD033,09 Poisoning by drugs or adverse effects of medical drugs
+MBD023,08 Suicidal ideation/attempt/intentional self-harm
+MBD033,08 Suicidal ideation/attempt/intentional self-harm
+MBD023,99 Unacceptable PDX
+MBD033,99 Unacceptable PDX
+MBD020,09 Poisoning by drugs or adverse effects of medical drugs
+MBD032,09 Poisoning by drugs or adverse effects of medical drugs
+MBD020,08 Suicidal ideation/attempt/intentional self-harm
+MBD032,08 Suicidal ideation/attempt/intentional self-harm
+MBD020,99 Unacceptable PDX
+MBD032,99 Unacceptable PDX
+INJ075,09 Poisoning by drugs or adverse effects of medical drugs
+MBD034,09 Poisoning by drugs or adverse effects of medical drugs
+EXT015,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+INJ023,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+INJ060,0 Not Applicable
+EXT015,08 Suicidal ideation/attempt/intentional self-harm
+INJ023,08 Suicidal ideation/attempt/intentional self-harm
+INJ060,08 Suicidal ideation/attempt/intentional self-harm
+EXT004,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+EXT004,08 Suicidal ideation/attempt/intentional self-harm
+EXT012,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+EXT012,08 Suicidal ideation/attempt/intentional self-harm
+EXT011,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+EXT011,08 Suicidal ideation/attempt/intentional self-harm
+INJ021,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+EXT017,08 Suicidal ideation/attempt/intentional self-harm
+INJ021,08 Suicidal ideation/attempt/intentional self-harm
+INJ058,08 Suicidal ideation/attempt/intentional self-harm
+INJ074,08 Suicidal ideation/attempt/intentional self-harm
+EXT013,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+INJ032,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+INJ068,0 Not Applicable
+EXT002,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+INJ031,0 Not Applicable
+INJ067,0 Not Applicable
+INJ037,0 Not Applicable
+INJ072,0 Not Applicable
+INJ076,0 Not Applicable
+INJ037,01 Postprocedural or postoperative complications
+INJ072,01 Postprocedural or postoperative complications
+INJ076,01 Postprocedural or postoperative complications
+SYM003,01 Postprocedural or postoperative complications
+INJ037,99 Unacceptable PDX
+INJ072,99 Unacceptable PDX
+INJ076,99 Unacceptable PDX
+INF002,01 Postprocedural or postoperative complications
+INJ033,0 Not Applicable
+INJ069,0 Not Applicable
+INJ034,0 Not Applicable
+INJ070,0 Not Applicable
+INJ035,0 Not Applicable
+INJ071,0 Not Applicable
+INJ036,0 Not Applicable
+INJ010,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+RSP013,12 Only one CCSR category matches the ICD-10-CM codebook chapter
+INF012,0 Not Applicable
+EXT016,99 Unacceptable PDX and DX1
+EXT020,99 Unacceptable PDX and DX1
+EXT029,99 Unacceptable PDX and DX1
+EXT030,99 Unacceptable PDX and DX1
+EXT003,99 Unacceptable PDX and DX1
+EXT018,99 Unacceptable PDX and DX1
+EXT009,99 Unacceptable PDX and DX1
+EXT007,99 Unacceptable PDX and DX1
+EXT008,99 Unacceptable PDX and DX1
+EXT010,99 Unacceptable PDX and DX1
+EXT002,99 Unacceptable PDX and DX1
+EXT013,99 Unacceptable PDX and DX1
+EXT006,99 Unacceptable PDX and DX1
+EXT001,99 Unacceptable PDX and DX1
+EXT005,99 Unacceptable PDX and DX1
+EXT011,99 Unacceptable PDX and DX1
+EXT012,99 Unacceptable PDX and DX1
+EXT004,99 Unacceptable PDX and DX1
+EXT019,99 Unacceptable PDX and DX1
+EXT021,99 Unacceptable PDX and DX1
+MBD012,99 Unacceptable PDX and DX1
+MBD027,99 Unacceptable PDX and DX1
+MBD034,99 Unacceptable PDX and DX1
+EXT022,99 Unacceptable PDX and DX1
+EXT023,99 Unacceptable PDX and DX1
+EXT024,99 Unacceptable PDX and DX1
+EXT015,99 Unacceptable PDX and DX1
+EXT017,99 Unacceptable PDX and DX1
+EXT025,99 Unacceptable PDX and DX1
+EXT028,99 Unacceptable PDX and DX1
+EXT027,99 Unacceptable PDX and DX1
+EXT026,99 Unacceptable PDX and DX1
+FAC014,99 Unacceptable PDX
+FAC014,0 Not Applicable
+DEN001,99 Unacceptable PDX
+DEN002,99 Unacceptable PDX
+DEN003,99 Unacceptable PDX
+FAC001,99 Unacceptable PDX
+FAC001,0 Not Applicable
+FAC003,0 Not Applicable
+FAC003,99 Unacceptable PDX
+FAC016,0 Not Applicable
+FAC007,0 Not Applicable
+FAC008,99 Unacceptable PDX
+FAC010,99 Unacceptable PDX
+FAC016,99 Unacceptable PDX
+FAC008,0 Not Applicable
+FAC007,99 Unacceptable PDX
+FAC018,0 Not Applicable
+FAC018,99 Unacceptable PDX
+FAC025,99 Unacceptable PDX
+FAC025,0 Not Applicable
+FAC021,99 Unacceptable PDX and DX1
+FAC015,99 Unacceptable PDX
+FAC021,99 Unacceptable PDX
+FAC024,0 Not Applicable
+FAC017,99 Unacceptable PDX
+FAC017,99 Unacceptable PDX and DX1
+FAC005,99 Unacceptable PDX
+FAC013,99 Unacceptable PDX
+FAC013,0 Not Applicable
+FAC012,99 Unacceptable PDX
+PRG029,99 Unacceptable PDX
+PRG001,0 Not Applicable
+PRG030,99 Unacceptable PDX
+PNL001,0 Not Applicable
+PRG002,99 Unacceptable PDX
+FAC004,0 Not Applicable
+FAC004,99 Unacceptable PDX
+FAC010,0 Not Applicable
+FAC009,0 Not Applicable
+FAC009,99 Unacceptable PDX
+CIR016,07 Signs/symptoms and factors influencing health status
+FAC009,07 Signs/symptoms and factors influencing health status
+EYE010,07 Signs/symptoms and factors influencing health status
+EAR004,07 Signs/symptoms and factors influencing health status
+GEN003,99 Unacceptable PDX
+FAC006,0 Not Applicable
+FAC019,99 Unacceptable PDX and DX1
+FAC025,99 Unacceptable PDX and DX1
+END009,99 Unacceptable PDX and DX1
+FAC002,0 Not Applicable
+FAC002,99 Unacceptable PDX
+FAC011,99 Unacceptable PDX
+FAC012,0 Not Applicable
+FAC020,99 Unacceptable PDX
+FAC020,0 Not Applicable
+FAC021,0 Not Applicable
+FAC022,99 Unacceptable PDX
+FAC022,0 Not Applicable
+FAC023,99 Unacceptable PDX
+CIR016,99 Unacceptable PDX
+CIR003,99 Unacceptable PDX
+CIR019,99 Unacceptable PDX
