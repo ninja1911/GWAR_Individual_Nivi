@@ -40,7 +40,6 @@ GWAR_Individual_Nivi/
 
 * Python 3.x
 * Libraries: `numpy`, `pandas`, `matplotlib`, `scikit-learn`, `xgboost`, `seaborn`, `plotly`, `jupyter`
-* Deployment (optional): Google Cloud Platform (GCP) or similar
 
 ## Running the Project
 
